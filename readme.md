@@ -1,4 +1,4 @@
-111# cs2_webradar
+# cs2_webradar
 counter strike 2 browser based radar cheat **(work in progress)** <br>
 <br>
 if you have any issues or questions, feel free to ask on my [discord server](https://discord.gg/wVzuHN8uXd)
